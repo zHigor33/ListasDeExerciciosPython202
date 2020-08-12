@@ -1,0 +1,6 @@
+intFirst = int(input("Informe o 1º número inteiro: "))
+intSecond = int(input("Informe o 2º número inteiro: "))
+floatFirst = float(input("Informe o número real: "))
+print("O produto do dobro do primeiro com metade do segundo é",(intFirst*2)*(intSecond/2))
+print("A soma do triplo do primeiro com o terceiro é",intFirst*3+floatFirst*3)
+print("O terceiro elevado ao cubo é",floatFirst**3)

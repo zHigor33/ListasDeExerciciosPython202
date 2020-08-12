@@ -1,0 +1,5 @@
+first =     float(input("Informe a 1ª nota do bimestre: "))
+second =    float(input("Informe a 2ª nota do bimestre: "))
+third =     float(input("Informe a 3ª nota do bimestre: "))
+fourth =    float(input("Informe a 4ª nota do bimestre: "))
+print("A média do bimestre é ",(first+second+third+fourth)/4)
