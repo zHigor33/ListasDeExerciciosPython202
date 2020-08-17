@@ -1,6 +1,6 @@
 # 1 Litro para 6 metros quadrados
 # 18 litros por lata a R$80,00
-# 3,6 litros por latão a R$25,00
+# 3,6 litros por galão a R$25,00
 import math
 
 area = float(input("Informe em metros quadrados a área a ser pintada: "))
