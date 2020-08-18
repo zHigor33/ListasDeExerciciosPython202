@@ -28,3 +28,4 @@ print("\n\nQuantidade de litros necessária é de ",requiredInkPerLiter,
         "\nApenas latas R$",pricePerCan,"- Quantidade de latas",numberOfCans,
         "\nApenas galões R$",pricePerGallons,"- Quantidade de galões",numberOfGallons,
         "\nLatas e Galões R$",totalPrice,"- Quantidade de latas",literOfCans,"- Quantidade de galões",numberOfGallonsPerCan)
+        
