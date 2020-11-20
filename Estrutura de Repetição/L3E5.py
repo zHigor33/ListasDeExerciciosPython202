@@ -7,7 +7,7 @@ while verifyInformation:
 
     if cityA < cityB:
         growhRateA = float(input("Informe a taxa de crescimento da cidade A (1= 100%/ 1.5= 50%):"))
-        growhRateB = float(input("Informe a taxa de crescimento da cidade B (1= 100%/ 0.5= 50%):"))
+        growhRateB = float(input("Informe a taxa de crescimento da cidade B (1= 100%/ 1.5= 50%):"))
 
         if growhRateA > growhRateB:
             calculation = True
