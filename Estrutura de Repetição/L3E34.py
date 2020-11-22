@@ -9,7 +9,7 @@ for i in range(number):
     
     else:
         checkList
-        
+
 if checkList == 2:
     print("É um número primo pois é divisivel por "+str(splitList))
 
